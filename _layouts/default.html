@@ -28,8 +28,8 @@
 
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
-          <a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/eqlyvbh800lnyqw/TastyTime.plist" class="button"><img src="/assets/images/ios.png"><span>아이폰 다운</span></a>
-          <a href="https://www.dropbox.com/s/a1bz9nslkckzxiw/TastyTime.apk?dl=0" class="button"><img src="/assets/images/android.png"><span>안드로이드 다운</span></a>
+          <a href="itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/eqlyvbh800lnyqw/TastyTime.plist" class="button"><img src="{{ '/assets/images/ios.png' | relative_url }}"><span>아이폰 다운</span></a>
+          <a href="https://www.dropbox.com/s/a1bz9nslkckzxiw/TastyTime.apk?dl=0" class="button"><img src="{{ '/assets/images/android.png' | relative_url }}"><span>안드로이드 다운</span></a>
           {% endif %}
         </section>
 

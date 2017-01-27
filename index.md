@@ -1,123 +1,28 @@
----
-layout: default
----
+## TastyTime Download Pages!
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+아래의 다운로드 링크를 클릭하시면 앱을 다운로드 받을 수 있습니다.
 
-[Link to another page](another-page).
+### App Download
+* [아이폰 앱 다운로드](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/eqlyvbh800lnyqw/TastyTime.plist)
 
-There should be whitespace between paragraphs.
+* [안드로이드 앱 다운로드](https://www.dropbox.com/s/a1bz9nslkckzxiw/TastyTime.apk?dl=0)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Manual Download
 
-# [](#header-1)Header 1
+* [아이폰 설치 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* [안드로이드 설치 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md)
 
-## [](#header-2)Header 2
+* [TastyTime 이용 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Support or Contact
 
-### [](#header-3)Header 3
+1. 서비스플랫폼개발P-TF 장원철
+     - tel: 010-9777-0994
+     - mail: jang.woncheol@kt.com
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+2. 서비스플랫폼개발P-TF 정재진
+     - tel: 010-7333-3158
+     - mail: jayj.jeong@kt.com
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Thanks to

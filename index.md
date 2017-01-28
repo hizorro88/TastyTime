@@ -2,13 +2,11 @@
 
 아래의 다운로드 링크를 클릭하시면 메뉴얼을 다운로드 받을 수 있습니다.
 
-### Manual Download
+** [아이폰 설치 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md) **
 
-* [아이폰 설치 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md)
+** [안드로이드 설치 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md) **
 
-* [안드로이드 설치 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md)
-
-* [TastyTime 이용 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md)
+** [TastyTime 이용 메뉴얼](https://github.com/hizorro88/TastyTime/edit/master/index.md) **
 
 ### Support or Contact
 
@@ -20,4 +18,4 @@
   - tel: 010-7333-3158
   - mail: jayj.jeong@kt.com
 
-### Thanks to
+<!-- ### Thanks to -->

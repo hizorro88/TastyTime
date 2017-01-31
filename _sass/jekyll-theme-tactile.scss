@@ -107,14 +107,12 @@ header h2 {
 a.button {
   display: block;
   float: left;
-  width: 45%;
-  height: 80px;
-  text-align: center;
+  width: 179px;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
-  font-size: 80%;
+  font-size: 15px;
   font-weight: bold;
-  line-height: 80px;
+  line-height: 25px;
   color: #303030;
   background: #fdfdfd; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
@@ -157,10 +155,10 @@ a.button span {
 }
 
 #download-zip span {
-  background: transparent url(../images/android.png) 12px 100% no-repeat;
+  background: transparent url(../images/android.png) 12px 50% no-repeat;
 }
 #download-tar-gz span {
-  background: transparent url(../images/ios.png) 12px 100% no-repeat;
+  background: transparent url(../images/ios.png) 12px 50% no-repeat;
 }
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
@@ -363,7 +361,7 @@ footer a:hover {
   }
   #download-zip, #download-tar-gz {
     font-size: 20px;
-    padding: 5px 5px;
+    padding: 5px 32px;
   }
   .inner {
     width: 94%;

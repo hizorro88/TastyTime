@@ -1,5 +1,6 @@
 
-[아이폰 앱 다운로드](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/eqlyvbh800lnyqw/TastyTime.plist) | [안드로이드 앱 다운로드](https://dl.dropboxusercontent.com/s/a1bz9nslkckzxiw/TastyTime.apk)
+**[아이폰 앱 다운로드](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/eqlyvbh800lnyqw/TastyTime.plist)** | **[안드로이드 앱 다운로드](https://dl.dropboxusercontent.com/s/a1bz9nslkckzxiw/TastyTime.apk)**
+
 
 ## TastyTime 메뉴얼
 

@@ -10,10 +10,6 @@
 
 ### Support or Contact
 
-서비스플랫폼개발P-TF 장원철
-  tel: 010-9777-0994
-  mail: jang.woncheol@kt.com
+서비스플랫폼개발P-TF 장원철 / 010-9777-0994 / jang.woncheol@kt.com
 
-서비스플랫폼개발P-TF 정재진
-  tel: 010-7333-3158
-  mail: jayj.jeong@kt.com
+서비스플랫폼개발P-TF 정재진 / 010-7333-3158 / jayj.jeong@kt.com

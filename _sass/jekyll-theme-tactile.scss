@@ -112,7 +112,7 @@ a.button {
   text-align: center;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
-  font-size: 50px;
+  font-size: 80%;
   font-weight: bold;
   line-height: 80px;
   color: #303030;
@@ -157,10 +157,10 @@ a.button span {
 }
 
 #download-zip span {
-  background: transparent url(../images/android.png) 12px 50% no-repeat;
+  background: transparent url(../images/android.png) 12px 100% no-repeat;
 }
 #download-tar-gz span {
-  background: transparent url(../images/ios.png) 12px 50% no-repeat;
+  background: transparent url(../images/ios.png) 12px 100% no-repeat;
 }
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;

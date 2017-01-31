@@ -8,7 +8,7 @@
 
 [TastyTime 이용 메뉴얼 다운로드 >](https://dl.dropboxusercontent.com/s/moatg4sk2e1u8rp/Tasty%20Time%20%EC%82%AC%EC%9A%A9%20%EB%A9%94%EB%89%B4%EC%96%BC.pptx)
 
-## Support or Contact
+ Support or Contact
 
 서비스플랫폼개발P-TF 장원철 / 010-9777-0994 / jang.woncheol@kt.com
 

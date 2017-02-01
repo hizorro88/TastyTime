@@ -1,9 +1,4 @@
 
-## TastyTime 다운로드
-
-아래의 링크를 클릭하시면 앱을 다운로드 받을 수 있습니다.
-
-[아이폰 앱 다운로드 >](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/eqlyvbh800lnyqw/TastyTime.plist)
 
 [안드로이드 앱 다운로드 >](https://dl.dropboxusercontent.com/s/a1bz9nslkckzxiw/TastyTime.apk)
 
